@@ -107,25 +107,15 @@ Once you have Ruby installed, you can use RubyGems (Ruby's package manager) to i
 
 ```gem install rspec```
 
-2. Run the tests for the factorial method using the following command:
+2. Run the tests for the Solver class using the following command:
 
-```rspec factorial_spec.rb```
+```rspec solver_spec.rb```
 
-3. Run the tests for the reverse method using the following command:
-
-```rspec reverse.rb```
-
-4. 3. Run the tests for the reverse method using the following command:
-
-```rspec fizzbuzz.rb```
-
-5. All tests should pass without any errors or failures, ensuring that the Solver class and its methods are functioning correctly.
+3. All tests should pass without any errors or failures, ensuring that the Solver class and its methods are functioning correctly.
 
 <!-- AUTHORS -->
 
 ## Authors <a name="authors"></a>
-
-**Romans S.**
 
 **Pablo Gonzalez**
 
